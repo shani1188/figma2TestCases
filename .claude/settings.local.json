@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(nvm list *)",
+      "PowerShell(nvm list *)",
+      "Bash(npm install *)",
+      "Bash(Get-Content \"C:\\\\PROGRA~1\\\\KMSpico\\\\temp\\\\claude\\\\D--Learning-ECC-figma-to-test-cases\\\\c1dedf09-28ca-4716-b26f-f445b6ee9c1f\\\\tasks\\\\bp4965ali.output\" -Wait -Tail 20)",
+      "Bash(Select-Object -First 50)",
+      "Bash(npm run *)",
+      "Bash(GEMINI_MODEL=gemini-2.0-flash-lite node dist/cli.js --image \"tests/fixtures/dashboard.png\")",
+      "PowerShell(Get-NetTCPConnection *)",
+      "PowerShell(Get-CimInstance *)",
+      "PowerShell(Get-WmiObject *)",
+      "Bash(npm uninstall *)"
+    ]
+  }
+}
